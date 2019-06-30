@@ -89,15 +89,3 @@ This section shows you how to prepare, build, and run the sample application.
 * Complete API documentation is available at the [Document Center](https://docs.agora.io/en/).
 * You can file bugs about this sample [here](https://github.com/nishnash54/SentimentAnalysis/issues).
 
-
-## License
-This software is under the MIT License (MIT). [View the license](LICENSE.md).
-
-## Contributors
-**[Nishant Rodrigues](https://github.com/nishnash54)**
-
-
-**[Samyak Jain](https://github.com/samyak-jain)**
-
-
-**[Vineeth S](https://github.com/technophilic)**
